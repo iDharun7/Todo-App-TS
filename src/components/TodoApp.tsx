@@ -8,52 +8,32 @@ interface Todo {
 
 const quotes = [
   {
-    q: 'The only way to do great work is to love what you do.',
-    a: 'Steve Jobs',
+    q: 'The best error message is the one that never shows up.',
+    a: 'Thomas Fuchs',
   },
   {
-    q: 'Believe you can and you’re halfway there.',
-    a: 'Theodore Roosevelt',
-  },
-  {
-    q: 'The future belongs to those who believe in the beauty of their dreams.',
-    a: 'Eleanor Roosevelt',
-  },
-  {
-    q: 'Don’t watch the clock; do what it does. Keep going.',
-    a: 'Sam Levenson',
-  },
-  {
-    q: 'Success is not final, failure is not fatal: It is the courage to continue that counts.',
-    a: 'Winston Churchill',
-  },
-  {
-    q: 'The only limit to our realization of tomorrow will be our doubts of today.',
-    a: 'Franklin D. Roosevelt',
-  },
-  {
-    q: 'The secret of getting ahead is getting started.',
-    a: 'Mark Twain',
-  },
-  {
-    q: 'If you want to achieve greatness stop asking for permission.',
+    q: 'It is not a bug. It is an undocumented feature.',
     a: 'Anonymous',
   },
   {
-    q: 'Success is walking from failure to failure with no loss of enthusiasm.',
-    a: 'Winston Churchill',
+    q: 'Java is to JavaScript what car is to carpet.',
+    a: 'Chris Heilmann',
   },
   {
-    q: 'The best way to predict the future is to create it.',
-    a: 'Peter Drucker',
+    q: 'Programming is not about typing; it is about thinking.',
+    a: 'Rich Hickey',
   },
   {
-    q: 'I think it is possible for ordinary people to choose to be extraordinary.',
-    a: 'Elon Musk',
+    q: 'The most important property of a program is whether it accomplishes the intention of its user.',
+    a: ' C.A.R. Hoare',
   },
   {
-    q: 'Strength does not come from winning. Your struggles develop your strengths.',
-    a: 'Arnold Schwarzenegger',
+    q: 'Code is like humor. When you have to explain it, it is bad.',
+    a: 'Cory House',
+  },
+  {
+    q: 'The sooner you start to code, the longer the program will take.',
+    a: 'Roy Carlson',
   },
 ];
 

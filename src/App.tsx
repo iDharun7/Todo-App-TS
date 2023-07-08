@@ -1,6 +1,6 @@
 import NavBar from "./components/NavBar";
 import TodoApp from "./components/TodoApp";
-import Footer from "./components/Footer";
+
 
 function App() {
   return (
@@ -8,7 +8,6 @@ function App() {
       <div>
         <NavBar />
         <TodoApp />
-        <Footer />
       </div>
     </>
   )
